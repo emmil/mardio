@@ -40,7 +40,7 @@ A file named mardio.elf will be generated, that can be run as a user application
 ### Build as native ARM STM32F4 application
 
 Get Fedora running in QEMU. There is a howto on the Fedoraproject wiki
-[HowToQemu]https://fedoraproject.org/wiki/Architectures/ARM/HowToQemu
+https://fedoraproject.org/wiki/Architectures/ARM/HowToQemu
 
 Or have an ARM computer with Linux available (e.g. Raspberry Pi).
 
@@ -118,23 +118,22 @@ A short overview of content each individual directories
 Code from several open source project has been used. Images as well.
 Below is a list with their licenses. Rest of the code is under GLP 3
 
-ucLibs - LGPL v2.1
-Quake3 - GNU GPL2
-libid3tag - GNU GPL2
-madlld - madlld license
-libmad - GNU GPL2
-ff - Free software
-lwip - BSD license
-libmad - GNU GPL2
-pcd8544 code - Tilen Majerle GNU GPL 3
-startup code, peripheral drivers - ST Liberty SW License 20 Jul 2011
-
-MP3 logo - Wikipedia
-USB logo - Wikipedia
-Sand glass (clock136.svg) - from web page flaticon.com "designed by Freepik"
-MC cassete (music46.svg) - from web page flaticon.com "designed by Freepik"
-Radio (communication5.svg) - from web page flaticon.com "designed by Freepik"
-Network (network19.svg) - from web page flaticon.com "designed by Freepik"
-Speaker (speaker117.svg) - from web page flaticon.com "designed by Freepik"
-STM32 logo belongs to STMicroelectronics
+- ucLibs - LGPL v2.1
+- Quake3 - GNU GPL2
+- libid3tag - GNU GPL2
+- madlld - madlld license
+- libmad - GNU GPL2
+- ff - Free software
+- lwip - BSD license
+- libmad - GNU GPL2
+- pcd8544 code - Tilen Majerle GNU GPL 3
+- startup code, peripheral drivers - ST Liberty SW License 20 Jul 2011
+- MP3 logo - Wikipedia
+- USB logo - Wikipedia
+- Sand glass (clock136.svg) - from web page flaticon.com "designed by Freepik"
+- MC cassete (music46.svg) - from web page flaticon.com "designed by Freepik"
+- Radio (communication5.svg) - from web page flaticon.com "designed by Freepik"
+- Network (network19.svg) - from web page flaticon.com "designed by Freepik"
+- Speaker (speaker117.svg) - from web page flaticon.com "designed by Freepik"
+- STM32 logo belongs to STMicroelectronics
 
